@@ -1,3 +1,15 @@
+# Country details app - React project
+
+## By Dipsundar Majhi 
+
+---
+
+### Purpose of this Project : Testing Javascript skills
+
+- React
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
